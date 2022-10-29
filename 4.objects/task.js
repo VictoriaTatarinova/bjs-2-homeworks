@@ -41,5 +41,3 @@ Student.prototype.exclude = function(reason) {
   delete this.marks;
   this.excluded = reason;
 }
-
-// ваш код для остальных методов
